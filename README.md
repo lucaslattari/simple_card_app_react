@@ -3,7 +3,7 @@
 Código referente ao vídeo apresentado [nesse link](https://youtu.be/AkFjbB6s2W4).
 
 <p align="center">
-  <a href="https://youtu.be/rTYa18bj93s"><img src="https://img.youtube.com/vi/rTYa18bj93s/maxresdefault.jpg"></a>
+  <a href="https://youtu.be/AkFjbB6s2W4"><img src="https://img.youtube.com/vi/AkFjbB6s2W4/maxresdefault.jpg"></a>
 </p>
 
 ## Sobre o Repositório
